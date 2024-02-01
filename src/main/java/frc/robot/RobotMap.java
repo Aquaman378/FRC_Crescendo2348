@@ -109,8 +109,6 @@ public class RobotMap {
   public static int I_MOTOR_LEFT = RoboRioMap.CAN_10;
   public static int I_MOTOR_RIGHT = RoboRioMap.CAN_9;
 
-  // [L]ights
-  public static int L_LEDS = RoboRioMap.PWM_0;
 
   //[U]ser Input
 	public static int U_DRIVER_XBOX_CONTROLLER = 0;
